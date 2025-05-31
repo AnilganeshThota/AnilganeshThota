@@ -24,7 +24,7 @@ Python, SQL, HTML, CSS, JavaScript, React, Node.js
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilganeshThota&show_icons=true&theme=dark)
 
 ## 🤝 Connect with Me
 
