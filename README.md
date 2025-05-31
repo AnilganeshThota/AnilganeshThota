@@ -4,8 +4,6 @@
 
 I'm a 4th-year Computer Science Engineering student specializing in Blockchain Technology, with over 2 years of hands-on experience in public Blockchain. I wield  like a [fun metaphor]. Certified in [your certifications], I'm currently diving deep into [current focus areas]—because what's life without a little digital chaos?
 
-When I'm not [your main activity], I'm probably convincing my friends that "[your funny security tip]" is not an acceptable security practice. 😄
-🔒 If you've ever used "[common bad password]" as your password, I offer free cybersecurity interventions.
 
 ### 🌍 **Location:** Vadodara
 ### 💎 **Specialization:** Web Developer  
