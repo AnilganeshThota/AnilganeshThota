@@ -7,18 +7,17 @@ I'm a 4th-year Computer Science Engineering student specializing in Blockchain T
 When I'm not [your main activity], I'm probably convincing my friends that "[your funny security tip]" is not an acceptable security practice. 😄
 🔒 If you've ever used "[common bad password]" as your password, I offer free cybersecurity interventions.
 
-### 🌍 **Location:** [Your Location]
-### 💎 **Specialization:** [Your Skills/Specializations]  
-### 📧 **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)
-### 📞 **Phone:** [Your Phone Number]
+### 🌍 **Location:** Vadodara
+### 💎 **Specialization:** Web Developer  
+### 📧 **Email:** anilganesh480@gmail.com
+### 📞 **Phone:** +91 6300131041
 
 ## 🛠️ Skills
 
 ### Programming Languages: 
-Python, Java, C, SQL, HTML, CSS *(Yes, I know CSS is not a programming language, but let's keep the peace.)*
+Python, SQL, HTML, CSS, JavaScript, React, Node.js
 
 ### 🔧 Tools & Technologies:
-- **Security Tools:** [List your security tools]
 - **Development:** [Your dev tools]
 - **Databases:** [Database technologies]
 - **Operating Systems:** [OS you work with]
@@ -29,9 +28,9 @@ Python, Java, C, SQL, HTML, CSS *(Yes, I know CSS is not a programming language,
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anil-ganesh-09219a274)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AnilGanesh991)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anilganesh480@gmail.com)
 
 ---
-⭐️ From [YourUsername](https://github.com/YourUsername)
+⭐️ From Thota Anil Ganesh(https://github.com/AnilganeshThota)
