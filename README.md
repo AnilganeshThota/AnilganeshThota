@@ -44,4 +44,4 @@ If you need a advise about Blockchain,feel free to reach out! 🚀
 P.S. If you think anyone can mine crypto, I’m not mad. Just disappointed. 😆
 ---
 
-⭐️ From [Hari Shankar](https://github.com/AnilganeshThota)
+⭐️ From [Anil Ganesh](https://github.com/AnilganeshThota)
