@@ -34,7 +34,7 @@ I'm a third-year Computer Science Engineering student specializing in BlockChain
 
 ## 📫 How to reach me
 
-- LinkedIn: [Anil Ganesh](www.linkedin.com/in/anil-ganesh-09219a274)
+- LinkedIn: [Anil Ganesh](https://www.linkedin.com/in/anil-ganesh-09219a274)
 - Email: bhagyasriannapurna@gmail.com
 
 ## 🚀 Let's Connect
